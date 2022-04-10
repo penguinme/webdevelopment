@@ -1,0 +1,65 @@
+/* id + # class + . */
+
+y {
+    font-size: 20px;
+}
+
+img {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+#container {
+    height: auto;
+    width: auto;
+    padding: 10px 10px;
+    background-color: rgb(236, 232, 190);
+}
+
+#container2 {
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
+    background-color: rgb(136, 134, 134);
+}
+        .aboutme {
+            font-style: italic;
+            background-color: rgb(236, 232, 190);
+        }
+        
+
+#container3 {
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
+    background-color: rgb(136, 134, 134);
+}
+        .skill {
+            font-style: italic;
+            background-color: rgb(236, 232, 190);
+        }
+
+#container4 {
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
+    background-color: rgb(136, 134, 134);
+}
+        .education {
+            font-style: italic;
+            background-color: rgb(236, 232, 190);
+        }
+
+#container5 {
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
+    background-color: rgb(136, 134, 134);
+}
+        .contact {
+            font-style: italic;
+            background-color: rgb(236, 232, 190);
+        }
