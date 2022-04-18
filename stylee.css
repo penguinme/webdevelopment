@@ -63,3 +63,70 @@ img {
             font-style: italic;
             background-color: rgb(236, 232, 190);
         }
+
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+body {
+    display: inline-block;
+    text-align: center;
+    background: url("img/bc.jpg") top right no-repeat;
+}
+
+#page {
+    width: 800px;
+    height: 150px;
+    background-color: #c1c1c1;
+    padding: 20px;
+    clear: both;
+}
+
+h1 {
+    color: forestgreen;
+    font-size: 32px;
+}
+
+div p {
+    margin: 50px 0 30px 0;
+    color: blue;
+}
+
+p::first-line {
+    color: #888;
+    font-size: xx-large;
+    background-color: #c1c1c1;
+}
+
+span {
+    color: yellow;
+    font-style: italic;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+input[type="text"] {
+    background-color: yellow;
+    border: none;
+    padding: 10px 10px;
+    color: red;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.box {
+    width: 390px;
+    float: left;
+    display: inline;
+    background-color: silver;
+    color: #fff;
+    padding: 20px;
+    margin-left: 10px;
+}
